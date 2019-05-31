@@ -1,0 +1,14 @@
+---
+layout: post
+title:      " Cached In"
+date:       2019-05-31 02:41:25 +0000
+permalink:  cached_in
+---
+
+
+I grew up in rural Vermont, to which I attribute my interest in environmental conservation and sustainability. Growing up in Vermont necessitates engaging in outdoor activity, as there is not much infrastructural alternative. Spending most of my time outside exposed me to the importance of the natural landscape, both for recreation and survival. The environmental interest that stemmed from my childhood exposure was further defined in academically pursuing the topic at The Island School, a high-school semester program located in Eleuthera, Bahamas. The program is centered around sustainability and conservation, providing both an immersive social and science based approach to learning. With a multidimensional research component, The Island School spurred me to broaden my view of environmentalism. Similarly, my experience during and post-undergrad has pushed me to understand that in order for environmental progress to be made, the approach needs to be adapted to our current social, economic, and technological trajectory. With society advancing further down the path of technology, I believe that environmentalism needs to follow suit. 
+
+In completing the Flatiron School’s software engineering bootcamp, I aim to adapt and hone my ability to impact the course environmentalism takes going forward. The job market is continuing to move in the direction of tech across all industries, including many environmental companies. Having observed this trend, I believe that pursuing an education in software engineering will provide the most viable route through which to contribute and shape the future of environmentalism. 
+
+Now, coming into my fourth week of full-time curriculum, I have fluctauted between 'how am I going to do this?  Why am I here??" and "I've got this, this makes sense!" about a hundred times, and I can only imagine that I have an infinite loop of those questions and emotions coming for the remainder of this journey. 
+
